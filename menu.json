@@ -1,4 +1,4 @@
-"menus":{[{"name":"add a task","url":"/add","active":"y"},
+{"menus":[{"name":"add a task","url":"/add","active":"y"},
          {"name":"view a task","url":"/view","active":"y"},
          {"name":"search a task","url":"/search","active":"y"}
          ]
